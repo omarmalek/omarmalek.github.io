@@ -1,12 +1,38 @@
 
-# this is Readme file 
-here are my content.
+Omar J. Abo Me’aleq
+ 
+
+ID Card
+ 938987302
+ 
+omar.j.malek@gmail.com
+ 
+0599430033
+Web Link: https://omarmalek.github.io/
+FaceBook: 
+Computer Information Systems
+Al-Quds Open University /2012
+
+العنوان
+ 
+دير البلح – شارع الرشيد – النادي البحري
+		   
+Web Developer
+Front End: React.js - JavaScript.
+Back End: Java, working on: spring Boot, JPA, Hibernate, Spring Security.
+Skills: Networking, A+, CCNA, MCSA, Java SE, Java EE.
 
 
-`this is how code is deslayed`
+MCSA/ MCSE – LINK Institute /Gaza
+MCP - MICROSOFT CERTIFICATION
+ID :6508400
+ 
 
-That is so funny! :joy:
+Network+   CCNA   Galaxy Institute /Ramallah
+Volunteer Trainer: Al-Quds O. U. Ramallah 2004/2005
+Sales /Support Technician 
+Avometer Service  Center- Al-Nsairat /Gaza
+English Language: Fluently 
 
-*This is an edited version of readme.md file.*
 
-README files are a great place to describe your project in more detail, or add some documentation such as how to install or use your project. The contents of your README file are automatically shown on the front page of your repository.
+
